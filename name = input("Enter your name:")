@@ -1,0 +1,6 @@
+name = input("Enter your name:")
+print(f"Hello {name}")
+fav1 = input("Who is your favorite soccer player:")
+fav2 = input("What is ur favorite leauge:")
+fav3 = input("what is your favorie number":)
+print()
